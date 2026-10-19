@@ -5,7 +5,7 @@ public class hashmapsorting {
 
 	public static void main(String[] args) {
 		HashMap<Integer,String> hm=new HashMap<>();
-		hm.put(5,"chandler");
+		hm.put(5,"alice");
 		hm.put(2,"sudhir");
 		hm.put(3,"ravi");
 		hm.put(4,"prasad");
